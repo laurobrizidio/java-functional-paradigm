@@ -28,7 +28,5 @@ public class Desafio {
                 .apply(p);
 
         System.out.println(preco);
-
-
     }
 }
